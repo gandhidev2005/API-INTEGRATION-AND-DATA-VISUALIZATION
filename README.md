@@ -48,7 +48,7 @@ API_KEY = "your_actual_api_key_here"
 
 > ⚠️ Do **not** expose your API key publicly. Consider using environment variables for production use.
 
-## 📊 Sample Output
+## 📊 Output
 
 * **Temperature Plot**: Shows how the temperature fluctuates throughout the next 6 days in the specified city.
   ![Image](https://github.com/user-attachments/assets/0f2647ec-8a22-48e5-85f5-5cb9db1dfbc9)
