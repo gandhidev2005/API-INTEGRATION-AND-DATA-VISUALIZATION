@@ -45,7 +45,8 @@ API_KEY = "your_actual_api_key_here"
 
 ## 📊 Sample Output
 
-* **Temperature Plot**: Shows how the temperature fluctuates throughout the next 5 days in the specified city.
+* **Temperature Plot**: Shows how the temperature fluctuates throughout the next 6 days in the specified city.
+  ![Image](https://github.com/user-attachments/assets/0f2647ec-8a22-48e5-85f5-5cb9db1dfbc9)
 * **Humidity Plot**: Gives a view of how the humidity level changes, useful for health and travel planning.
   ![Image](https://github.com/user-attachments/assets/428699d3-0b54-4f97-96e5-db67d9797755)
 
